@@ -5,6 +5,7 @@
 
 cd "$(dirname "$0")"
 
+sudo yum install epel-release
 sudo yum install collectd collectd-curl -y
 sudo cp collectd.conf /etc/
 
