@@ -10,4 +10,4 @@
 |  8.     | --hdp_master_node_count |  String       |   Yes      | 3                              |    between 1-3                 | hdp master count                        |
 |  9.     | --hdp_data_node_count   |  String       |   Yes      | 3                              |    between 1-3                 | hdp data node count                     |
 |  10.    | --hdf_master_node_count |  String       |   Yes      | 2                              |    between 1-3                 | hdf master count count                  |
-|  11.    | --ifabric_master_node_count  |  String       |   Yes      | 5                              |    between 1-5                 | ifabric master count count          |   
+|  11.    | --ifabric_master_node_count   |  String       |   Yes      | 5                              |    between 1-5                 | ifabric master count count          |
