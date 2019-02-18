@@ -9,6 +9,7 @@
 
 Node Count for multi
 
+   :---      :---                        :---            :---       :---                                 :---                             :---    
 |  7.     |--cluster_version         |  String       |   Yes      | v2                             |    - v1<br>- v2                | Cluster version                         |
 |  8.     |--hdp_master_node_count   |  String       |   Yes      | 3                              |    between 1-3                 | hdp master count                        |
 |  9.     |--hdp_data_node_count     |  String       |   Yes      | 3                              |    between 1-3                 | hdp data node count                     |
