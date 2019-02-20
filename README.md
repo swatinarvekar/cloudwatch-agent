@@ -1,12 +1,4 @@
-# Atos Codex iFabric
 
-## Overview
-
-Atos Codex is a complete portfolio for data-driven business transformation in every market. With deep domain knowledge and expertise, we design, build, run and secure your smart business services and data platforms
-
-Atos Codex iFabric is an integrated digital advance analytics platform, which include capabilities like real-time steaming analytics, distributed data storage and processing of large, multi-source data sets, container management, micro-services framework and API management
-
-## CLI Parameter Details
 
 |  Sr. No.|   Parameter Name         | Parameter Type|  Required? |    Default Value               |      Possible Values           |        Description                      | 
 |  :---   |   :---                   |  :---         |  :---      |    :---                        |      :---                      |        :---                             | 
